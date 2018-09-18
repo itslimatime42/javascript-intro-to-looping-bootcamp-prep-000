@@ -18,5 +18,3 @@ function whileLoop(n) {
     console.log(--n);
   }
 }
-
-whileLoop(13);
